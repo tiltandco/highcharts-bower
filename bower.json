@@ -1,0 +1,39 @@
+{
+  "name": "highcharts-custom",
+  "version": "1.0.0",
+  "description": "Bower install for highcharts js",
+  "main": [
+    "adapters/standalone-framework.js",
+    "highcharts.js",
+    "modules/exporting.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "~1.16.0"
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Charts",
+    "Graphs",
+    "Tables"
+  ],
+  "authors": [
+    "2009-2014 Torstein Honsi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://adamlawrence@bitbucket.org/tiltandco/highcharts-bower.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
