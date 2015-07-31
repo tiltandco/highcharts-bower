@@ -1,5 +1,3 @@
-# README #
-
 # Highcharts Install # 
 
 ### Install all dependencies for highcharts using bower install ###
