@@ -7,8 +7,7 @@
 ### How to install ###
 
 * CLI
-* Bower install https://adamlawrence@bitbucket.org/tiltandco/highcharts-bower.git
-* Enter Bitbucket password
+* Bower install https://github.com/tiltandco/highcharts-bower
 
 ### Highcarts ###
 Author: 2009-2014 Torstein Hons
